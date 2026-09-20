@@ -449,20 +449,8 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagateja8185&theme=midnight_purple" alt="Profile Contribution Summary" width="100%"/>
+  <img width="100%" src="https://activity-graph.vercel.app/graph?username=nagateja8185&theme=react-dark&hide_border=true&area=true" alt="Thimmapur Nagateja Goud's Contribution Graph"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagateja8185&theme=midnight_purple" alt="Repos Per Language" height="160em"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagateja8185&theme=midnight_purple" alt="Most Commit Language" height="160em"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagateja8185&theme=midnight_purple&utcOffset=5.5" alt="Productive Time" height="160em"/>
-</p>
-
----
-
-## Contribution Snake
 
 <p align="center">
   <picture>
