@@ -427,7 +427,7 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nagateja8185&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&icon_color=7c3aed&text_color=c4b5fd" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagateja8185&theme=midnight_purple" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -435,7 +435,7 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nagateja8185&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&text_color=c4b5fd&layout=compact" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagateja8185&theme=midnight_purple" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -521,4 +521,4 @@ current_focus:
   <i>"The best security is the one the attacker never sees coming — and the best code is the one the next engineer can read without a map."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:5b21b6,60:3b0764,85:1a0533,100:0d0221&height=140&section=footer&animation=fadeIn" alt="Footer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:5b21b6,60:3b0764,85:1a0533,100:0a0e27&height=140&section=footer&animation=fadeIn" alt="Footer Banner"/>
