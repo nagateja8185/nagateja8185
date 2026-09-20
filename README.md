@@ -451,7 +451,7 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://activity-graph.vercel.app/graph?username=nagateja8185&theme=react-dark&hide_border=true&area=true" alt="Thimmapur Nagateja Goud's Contribution Graph"/>
+  <img width="100%" src="https://activity-graph.vercel.app/graph?username=nagateja8185&bg_color=121212&color=94a3b8&line=00f0ff&point=ffffff&area_color=312e81&area=true&hide_border=true" alt="Thimmapur Nagateja Goud's Contribution Graph"/>
 </p>
 
 <p align="center">
