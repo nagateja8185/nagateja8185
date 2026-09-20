@@ -435,7 +435,7 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagateja8185&theme=midnight_purple" alt="Most Used Languages"/>
+  <img src="https://raw.githubusercontent.com/nagateja8185/nagateja8185/main/most-used-languages.svg" alt="Most Used Languages"/>
 </p>
 
 ---
