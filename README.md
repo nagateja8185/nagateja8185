@@ -427,13 +427,15 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=nagateja8185&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&icon_color=7c3aed&text_color=c4b5fd&ring_color=5b21b6" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=nagateja8185&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&text_color=c4b5fd&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=nagateja8185&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&icon_color=7c3aed&text_color=c4b5fd" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=nagateja8185&theme=midnight-purple&hide_border=true&background=0d0221&ring=7c3aed&fire=9333ea&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa&currStreakNum=9333ea&sideNums=7c3aed" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nagateja8185&theme=midnight-purple&hide_border=true&background=0d0221&ring=7c3aed&fire=9333ea&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa&currStreakNum=9333ea&sideNums=7c3aed" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=nagateja8185&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&text_color=c4b5fd&layout=compact" alt="Most Used Languages"/>
 </p>
 
 ---
