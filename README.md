@@ -1,45 +1,45 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17162F,35:211F42,70:3B3A61,100:6FA8FF&height=240&section=header&text=Thimmapur%20Nagateja%20Goud&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Security%20Researcher&descAlignY=58&descSize=17&animation=fadeIn" alt="Header Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0d21,30:1e1b4b,60:312e81,85:4338ca,100:6366f1&height=240&section=header&text=Thimmapur%20Nagateja%20Goud&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Security%20Researcher&descAlignY=58&descSize=17&animation=fadeIn" alt="Header Banner"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=6FA8FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Building+Intelligent+Systems+%26+Scalable+Architectures;AI+%7C+Cybersecurity+%7C+Full-Stack+Engineering;B.Tech+CSE+(Information+Security)+%40+VIT+Vellore;Turning+Research+Into+Production-Ready+Products" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=818cf8&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Building+Intelligent+Systems+%26+Scalable+Architectures;AI+%7C+Cybersecurity+%7C+Full-Stack+Engineering;B.Tech+CSE+(Information+Security)+%40+VIT+Vellore;Turning+Research+Into+Production-Ready+Products" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-Information%20Security-6FA8FF?style=flat-square&logoColor=white&labelColor=17162F" alt="Degree"/>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-Information%20Security-6366f1?style=flat-square&logoColor=white&labelColor=0e0d21" alt="Degree"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/VIT%20Vellore-2023%20%E2%86%92%202027-5EA7FF?style=flat-square&logoColor=white&labelColor=17162F" alt="University"/>
+  <img src="https://img.shields.io/badge/VIT%20Vellore-2023%20%E2%86%92%202027-4f46e5?style=flat-square&logoColor=white&labelColor=0e0d21" alt="University"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-7.96%2F10-3B3A61?style=flat-square&logo=academia&logoColor=white&labelColor=17162F" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/CGPA-7.96%2F10-4338ca?style=flat-square&logo=academia&logoColor=white&labelColor=0e0d21" alt="CGPA"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/India-Hyderabad%2C%20TS-211F42?style=flat-square&logo=googlemaps&logoColor=white&labelColor=17162F" alt="Location"/>
+  <img src="https://img.shields.io/badge/India-Hyderabad%2C%20TS-312e81?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0e0d21" alt="Location"/>
 </p>
 
 <p align="center">
   <a href="https://nagateja8185.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6FA8FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=17162F" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0e0d21" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/thimmapur-nagateja-goud8185">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=17162F" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e0d21" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:thimmapurnagateja8185@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=17162F" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e0d21" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/nagateja8185">
-    <img src="https://img.shields.io/badge/GitHub-nagateja8185-5EA7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=17162F" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-nagateja8185-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0e0d21" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nagateja8185&color=6FA8FF&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=nagateja8185&color=6366f1&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/nagateja8185?color=5EA7FF&style=for-the-badge&logo=github&logoColor=white&labelColor=17162F&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/nagateja8185?color=4f46e5&style=for-the-badge&logo=github&logoColor=white&labelColor=0e0d21&label=Followers" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/nagateja8185?affiliations=OWNER&color=3B3A61&style=for-the-badge&logo=github&logoColor=white&labelColor=17162F&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/nagateja8185?affiliations=OWNER&color=4338ca&style=for-the-badge&logo=github&logoColor=white&labelColor=0e0d21&label=Stars" alt="Stars"/>
 </p>
 
 ---
@@ -360,43 +360,43 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 <p align="center">
   <strong>AWS</strong><br/><br/>
   <a href="#">
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=17162F" alt="AWS Cert"/>
+    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0e0d21" alt="AWS Cert"/>
   </a>
 </p>
 
 <p align="center">
   <strong>Oracle</strong><br/><br/>
   <a href="#">
-    <img src="https://img.shields.io/badge/Oracle-Certified%20Professional-f80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=17162F" alt="Oracle Cert"/>
+    <img src="https://img.shields.io/badge/Oracle-Certified%20Professional-f80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0e0d21" alt="Oracle Cert"/>
   </a>
 </p>
 
 <p align="center">
   <strong>NPTEL</strong><br/><br/>
   <a href="#">
-    <img src="https://img.shields.io/badge/NPTEL-Information%20Security%20Elite-6FA8FF?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=17162F" alt="NPTEL Cert"/>
+    <img src="https://img.shields.io/badge/NPTEL-Information%20Security%20Elite-4f46e5?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0e0d21" alt="NPTEL Cert"/>
   </a>
 </p>
 
 <p align="center">
   <strong>Cisco</strong><br/><br/>
   <a href="#">
-    <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=17162F" alt="Cisco Cert"/>
+    <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0e0d21" alt="Cisco Cert"/>
   </a>
 </p>
 
 <p align="center">
   <strong>IBM & Industry</strong><br/><br/>
   <a href="#">
-    <img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-054ada?style=for-the-badge&logo=ibm&logoColor=white&labelColor=17162F" alt="IBM Data Analysis"/>
+    <img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-054ada?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0e0d21" alt="IBM Data Analysis"/>
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/IBM-watsonx.ai%20Developer-054ada?style=for-the-badge&logo=ibm&logoColor=white&labelColor=17162F" alt="IBM watsonx"/>
+    <img src="https://img.shields.io/badge/IBM-watsonx.ai%20Developer-054ada?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0e0d21" alt="IBM watsonx"/>
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Elythra-AI%20%26%20ML%20Internship-6FA8FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=17162F" alt="Elythra Cert"/>
+    <img src="https://img.shields.io/badge/Elythra-AI%20%26%20ML%20Internship-6366f1?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0e0d21" alt="Elythra Cert"/>
   </a>
 </p>
 
@@ -406,19 +406,19 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 
 <p align="center">
   <a href="https://leetcode.com/nagateja8185/">
-    <img src="https://img.shields.io/badge/LeetCode-nagateja8185-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=17162F" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-nagateja8185-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0e0d21" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/nagateja8185/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-nagateja8185-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=17162F" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-nagateja8185-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0e0d21" alt="GeeksforGeeks"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/nagateja8185">
-    <img src="https://img.shields.io/badge/HackerRank-nagateja8185-00ea64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=17162F" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-nagateja8185-00ea64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0e0d21" alt="HackerRank"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/nagateja8185">
-    <img src="https://img.shields.io/badge/CodeChef-nagateja8185-5b4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=17162F" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-nagateja8185-5b4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0e0d21" alt="CodeChef"/>
   </a>
 </p>
 
@@ -451,7 +451,7 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://activity-graph.vercel.app/graph?username=nagateja8185&bg_color=17162F&title_color=5EA7FF&color=AEBCE0&line=6FA8FF&point=8CC7FF&area_color=211F42&area=true&hide_border=true&custom_title=Thimmapur%20Nagateja%20Goud's%20Contribution%20Graph" alt="Thimmapur Nagateja Goud's Contribution Graph"/>
+  <img width="100%" src="https://activity-graph.vercel.app/graph?username=nagateja8185&bg_color=0e0d21&title_color=818cf8&color=c7d2fe&line=6366f1&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=Thimmapur%20Nagateja%20Goud's%20Contribution%20Graph" alt="Thimmapur Nagateja Goud's Contribution Graph"/>
 </p>
 
 <p align="center">
@@ -499,19 +499,19 @@ current_focus:
 
 <p align="center">
   <a href="mailto:thimmapurnagateja8185@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-thimmapurnagateja8185-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=17162F" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-thimmapurnagateja8185-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e0d21" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thimmapur-nagateja-goud8185">
-    <img src="https://img.shields.io/badge/LinkedIn-Thimmapur%20Nagateja%20Goud-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=17162F" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Thimmapur%20Nagateja%20Goud-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e0d21" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/nagateja8185">
-    <img src="https://img.shields.io/badge/GitHub-nagateja8185-5EA7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=17162F" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-nagateja8185-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0e0d21" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://nagateja8185.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6FA8FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=17162F" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0e0d21" alt="Portfolio"/>
   </a>
 </p>
 
@@ -521,4 +521,4 @@ current_focus:
   <i>"The best security is the one the attacker never sees coming — and the best code is the one the next engineer can read without a map."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FA8FF,30:3B3A61,65:211F42,100:17162F&height=140&section=footer&animation=fadeIn" alt="Footer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:4338ca,60:312e81,85:1e1b4b,100:0e0d21&height=140&section=footer&animation=fadeIn" alt="Footer Banner"/>

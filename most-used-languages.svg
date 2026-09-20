@@ -1,45 +1,45 @@
 <svg width="495" height="165" viewBox="0 0 495 165" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most Used Languages">
   <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #5EA7FF; }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #AEBCE0; }
-    .lang-percent { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8CC7FF; }
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #818cf8; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .lang-percent { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c7d2fe; }
   </style>
-  <rect x="0.5" y="0.5" width="494" height="164" rx="8" fill="#17162F" stroke="#3B3A61" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="494" height="164" rx="8" fill="#0e0d21" stroke="#312e81" stroke-width="1"/>
   
   <text x="25" y="35" class="header">Most Used Languages</text>
   
-  <!-- Multi-color Electric Blue / Dark Purple Progress Bar -->
+  <!-- Multi-color Indigo/Purple Progress Bar -->
   <g transform="translate(25, 50)">
-    <rect x="0" y="0" width="215" height="8" rx="4" fill="#6FA8FF" />
-    <rect x="217" y="0" width="100" height="8" rx="4" fill="#5EA7FF" />
-    <rect x="319" y="0" width="67" height="8" rx="4" fill="#8CC7FF" />
-    <rect x="388" y="0" width="38" height="8" rx="4" fill="#3B3A61" />
-    <rect x="428" y="0" width="24" height="8" rx="4" fill="#211F42" />
+    <rect x="0" y="0" width="215" height="8" rx="4" fill="#6366f1" />
+    <rect x="217" y="0" width="100" height="8" rx="4" fill="#818cf8" />
+    <rect x="319" y="0" width="67" height="8" rx="4" fill="#a78bfa" />
+    <rect x="388" y="0" width="38" height="8" rx="4" fill="#4f46e5" />
+    <rect x="428" y="0" width="24" height="8" rx="4" fill="#312e81" />
   </g>
 
   <!-- Languages List (2 Columns) -->
   <g transform="translate(25, 80)">
     <!-- Column 1 -->
     <g transform="translate(0, 0)">
-      <circle cx="5" cy="8" r="5" fill="#6FA8FF" />
+      <circle cx="5" cy="8" r="5" fill="#6366f1" />
       <text x="18" y="12" class="lang-name">Python <tspan class="lang-percent">48.50%</tspan></text>
     </g>
     <g transform="translate(0, 26)">
-      <circle cx="5" cy="8" r="5" fill="#8CC7FF" />
+      <circle cx="5" cy="8" r="5" fill="#a78bfa" />
       <text x="18" y="12" class="lang-name">HTML <tspan class="lang-percent">15.20%</tspan></text>
     </g>
     <g transform="translate(0, 52)">
-      <circle cx="5" cy="8" r="5" fill="#211F42" />
+      <circle cx="5" cy="8" r="5" fill="#312e81" />
       <text x="18" y="12" class="lang-name">CSS <tspan class="lang-percent">5.30%</tspan></text>
     </g>
 
     <!-- Column 2 -->
     <g transform="translate(230, 0)">
-      <circle cx="5" cy="8" r="5" fill="#5EA7FF" />
+      <circle cx="5" cy="8" r="5" fill="#818cf8" />
       <text x="18" y="12" class="lang-name">TypeScript <tspan class="lang-percent">22.40%</tspan></text>
     </g>
     <g transform="translate(230, 26)">
-      <circle cx="5" cy="8" r="5" fill="#3B3A61" />
+      <circle cx="5" cy="8" r="5" fill="#4f46e5" />
       <text x="18" y="12" class="lang-name">JavaScript <tspan class="lang-percent">8.60%</tspan></text>
     </g>
   </g>

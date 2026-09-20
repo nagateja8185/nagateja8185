@@ -1,52 +1,52 @@
 <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thimmapur Nagateja Goud's GitHub Stats">
   <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #5EA7FF; }
-    .stat-label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #AEBCE0; }
-    .stat-value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6FA8FF; }
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #818cf8; }
+    .stat-label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c7d2fe; }
+    .stat-value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
   </style>
-  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#17162F" stroke="#3B3A61" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#0e0d21" stroke="#312e81" stroke-width="1"/>
   
   <text x="25" y="35" class="header">Thimmapur Nagateja Goud's GitHub Stats</text>
 
   <g transform="translate(25, 55)">
     <!-- Total Stars -->
     <g transform="translate(0, 0)">
-      <path fill="#6FA8FF" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+      <path fill="#6366f1" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
       <text x="25" y="12" class="stat-label">Total Stars:</text>
       <text x="160" y="12" class="stat-value">5</text>
     </g>
 
     <!-- Total Commits -->
     <g transform="translate(0, 26)">
-      <path fill="#6FA8FF" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5c0 .414.336.75.75.75h2.5a.75.75 0 000-1.5H8.5V4.75z"/>
+      <path fill="#6366f1" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5c0 .414.336.75.75.75h2.5a.75.75 0 000-1.5H8.5V4.75z"/>
       <text x="25" y="12" class="stat-label">Total Commits:</text>
       <text x="160" y="12" class="stat-value">34</text>
     </g>
 
     <!-- Total PRs -->
     <g transform="translate(0, 52)">
-      <path fill="#6FA8FF" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25z"/>
+      <path fill="#6366f1" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25z"/>
       <text x="25" y="12" class="stat-label">Total PRs:</text>
       <text x="160" y="12" class="stat-value">2</text>
     </g>
 
     <!-- Total Issues -->
     <g transform="translate(0, 78)">
-      <path fill="#6FA8FF" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+      <path fill="#6366f1" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
       <text x="25" y="12" class="stat-label">Total Issues:</text>
       <text x="160" y="12" class="stat-value">1</text>
     </g>
 
     <!-- Contributed to -->
     <g transform="translate(0, 104)">
-      <path fill="#6FA8FF" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9z"/>
+      <path fill="#6366f1" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9z"/>
       <text x="25" y="12" class="stat-label">Contributed to:</text>
       <text x="160" y="12" class="stat-value">11</text>
     </g>
   </g>
 
   <!-- Big GitHub Octocat Icon on Right -->
-  <g transform="translate(360, 45)" fill="#6FA8FF" opacity="0.85">
+  <g transform="translate(360, 45)" fill="#6366f1" opacity="0.85">
     <path fill-rule="evenodd" clip-rule="evenodd" d="M48 0C21.48 0 0 21.48 0 48c0 21.24 13.74 39.18 32.82 45.54 2.4.42 3.3-1.02 3.3-2.28 0-1.14-.06-4.92-.06-8.94-12.06 2.22-15.18-2.94-16.14-5.64-.54-1.38-2.88-5.64-4.92-6.78-1.68-.9-4.08-3.12-.06-3.18 3.78-.06 6.48 3.48 7.38 4.92 4.32 7.26 11.22 5.22 13.98 3.96.42-3.12 1.68-5.22 3.06-6.42-10.68-1.2-21.84-5.34-21.84-23.7 0-5.22 1.86-9.54 4.92-12.9-.48-1.2-2.16-6.12.48-12.72 0 0 4.02-1.26 13.2 4.92 3.84-1.08 7.92-1.62 12-1.62s8.16.54 12 1.62c9.18-6.24 13.2-4.92 13.2-4.92 2.64 6.6 .96 11.52.48 12.72 3.06 3.36 4.92 7.68 4.92 12.9 0 18.42-11.22 22.5-21.9 23.7 1.74 1.5 3.24 4.38 3.24 8.88 0 6.42-.06 11.58-.06 13.2 0 1.26.9 2.76 3.3 2.28C82.26 87.18 96 69.24 96 48 96 21.48 74.52 0 48 0z"/>
   </g>
 </svg>
