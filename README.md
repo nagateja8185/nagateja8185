@@ -427,7 +427,7 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagateja8185&theme=indigo" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/nagateja8185/nagateja8185/main/github-stats.svg" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
