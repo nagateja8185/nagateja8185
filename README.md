@@ -427,15 +427,15 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagateja8185&theme=indigo&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/nagateja8185/nagateja8185/main/github-stats.svg" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nagateja8185&theme=indigo&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://raw.githubusercontent.com/nagateja8185/nagateja8185/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagateja8185&theme=indigo&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img src="https://raw.githubusercontent.com/nagateja8185/nagateja8185/main/most-used-languages.svg" alt="Most Used Languages"/>
 </p>
 
 ---
