@@ -333,25 +333,6 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 
 </td>
 </tr>
-<tr>
-<td width="15%" align="center">
-  <img src="https://img.shields.io/badge/-2023%20%E2%86%92%20Present-5b21b6?style=flat-square&labelColor=0d0221" alt="Duration"/>
-</td>
-<td width="85%">
-
-### Software Engineering & Research — Independent
-
-**Self-Directed Engineering Projects · Remote · 2023 → Present**
-
-- Designed and deployed **6+ production-grade projects** spanning AI/ML, cybersecurity, and full-stack domains
-- Built and shipped **AI safety systems** (PhishShield, Safetalk.ai, MalwareVision) addressing real-world threats
-- Engineered **multi-agent AI workflows** on IBM Cloud using watsonx.ai, Granite LLMs, and RAG pipelines
-- Delivered **end-to-end full-stack applications** (Eventra.in) with real-time databases and authenticated flows
-
-`Python` `TypeScript` `React` `FastAPI` `PyTorch` `scikit-learn` `IBM watsonx.ai` `Docker` `Supabase` `AWS`
-
-</td>
-</tr>
 </table>
 
 ---
@@ -446,13 +427,13 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagateja8185&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&icon_color=7c3aed&text_color=c4b5fd&ring_color=5b21b6" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=nagateja8185&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&icon_color=7c3aed&text_color=c4b5fd&ring_color=5b21b6" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagateja8185&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&text_color=c4b5fd&langs_count=8&exclude_repo=nagateja8185" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=nagateja8185&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=9333ea&text_color=c4b5fd&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/nagateja8185/nagateja8185/main/github-streak-stats.svg" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=nagateja8185&theme=midnight-purple&hide_border=true&background=0d0221&ring=7c3aed&fire=9333ea&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa&currStreakNum=9333ea&sideNums=7c3aed" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -460,7 +441,7 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nagateja8185&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers,Stars" alt="GitHub Trophies"/>
+  <img width="100%" src="https://github-trophies.vercel.app/?username=nagateja8185&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers,Stars" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -468,7 +449,15 @@ Built on IBM Cloud Lite using watsonx.ai and IBM Granite foundation models, this
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagateja8185&bg_color=0d0221&color=9333ea&line=7c3aed&point=c4b5fd&area=true&area_color=3b0764&hide_border=true&radius=8&theme=react-dark" alt="Contribution Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagateja8185&theme=midnight_purple" alt="Profile Contribution Summary" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagateja8185&theme=midnight_purple" alt="Repos Per Language" height="160em"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagateja8185&theme=midnight_purple" alt="Most Commit Language" height="160em"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagateja8185&theme=midnight_purple&utcOffset=5.5" alt="Productive Time" height="160em"/>
 </p>
 
 ---
