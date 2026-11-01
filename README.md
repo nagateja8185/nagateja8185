@@ -258,10 +258,10 @@ All listed technologies reflect verified competencies from academic coursework, 
 
 > **Transparency Note**: All contribution activity and statistics below are queried live via the official GitHub API and authenticated telemetry services for user handle [`nagateja8185`](https://github.com/nagateja8185). No activity counts, streaks, or language distributions have been fabricated.
 
-<!-- Dynamic Activity Graph Styled in Burgundy Palette -->
+<!-- Development Cadence & Contribution Heatmap -->
 <div align="center">
   <a href="https://github.com/nagateja8185">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagateja8185&theme=react-dark&bg_color=10070C&color=C77B9B&line=701A3D&point=E5B5C7&area=true&hide_border=true" width="100%" alt="Genuine GitHub Activity Graph for nagateja8185" />
+    <img src="assets/github-activity.svg" width="100%" alt="Development Cadence and Contribution Heatmap for nagateja8185" />
   </a>
 </div>
 
@@ -274,13 +274,13 @@ All listed technologies reflect verified competencies from academic coursework, 
 
 <br/>
 
-<!-- GitHub Stats & Top Languages in Burgundy Palette -->
+<!-- GitHub Profile Telemetry & Portfolio Stack Distribution -->
 <div align="center">
   <a href="https://github.com/nagateja8185">
-    <img src="https://github-readme-stats.vercel.app/api?username=nagateja8185&show_icons=true&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&bg_color=10070C&border_color=451126" alt="nagateja8185 GitHub Stats" height="165" />
+    <img src="assets/github-stats.svg" width="49%" alt="nagateja8185 GitHub Profile Telemetry" />
   </a>
   <a href="https://github.com/nagateja8185">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagateja8185&layout=compact&title_color=E5B5C7&text_color=F8F0F3&bg_color=10070C&border_color=451126" alt="nagateja8185 Top Languages" height="165" />
+    <img src="assets/top-languages.svg" width="49%" alt="nagateja8185 Portfolio Stack Distribution" />
   </a>
 </div>
 
