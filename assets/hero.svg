@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="100%" height="100%" style="border-radius: 12px; overflow: hidden; background: #10070C;">
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="tng-bg-glow" cx="25%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0.75"/>
+      <stop offset="45%" stop-color="#190B12" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#10070C" stop-opacity="1"/>
+    </radialGradient>
+
+    <!-- Secondary Accent Radial Glow -->
+    <radialGradient id="tng-accent-glow" cx="80%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#190B12" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#10070C" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Moving Light Pulse Gradient -->
+    <linearGradient id="tng-moving-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#C77B9B" stop-opacity="0.8">
+        <animate attributeName="offset" values="0; 0.6; 1; 0" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#F8F0F3" stop-opacity="1">
+        <animate attributeName="offset" values="0.1; 0.7; 1.1; 0.1" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" stop-color="#C77B9B" stop-opacity="0.8">
+        <animate attributeName="offset" values="0.2; 0.8; 1.2; 0.2" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Animated Circuit Flow Gradient -->
+    <linearGradient id="tng-flow-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#C77B9B" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#E5B5C7" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <!-- Text Shimmer Gradient -->
+    <linearGradient id="tng-text-shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8F0F3"/>
+      <stop offset="35%" stop-color="#F8F0F3"/>
+      <stop offset="50%" stop-color="#E5B5C7">
+        <animate attributeName="offset" values="0.2; 0.8; 0.2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="65%" stop-color="#F8F0F3"/>
+      <stop offset="100%" stop-color="#F8F0F3"/>
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="tng-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#451126" stroke-width="0.65" stroke-opacity="0.4"/>
+      <circle cx="0" cy="0" r="1" fill="#701A3D" fill-opacity="0.5"/>
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="tng-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="tng-core-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .tng-font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Roboto Mono', Menlo, Consolas, monospace; }
+    .tng-font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+    @keyframes pulseFade {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+    @keyframes orbitNode {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+
+  <!-- Deep Canvas Background -->
+  <rect width="100%" height="100%" fill="#10070C"/>
+  <rect width="100%" height="100%" fill="url(#tng-bg-glow)"/>
+  <rect width="100%" height="100%" fill="url(#tng-accent-glow)"/>
+
+  <!-- Technical Grid Overlay -->
+  <rect width="100%" height="100%" fill="url(#tng-grid)"/>
+
+  <!-- Moving Ambient Light Orb -->
+  <circle cy="140" r="160" fill="#701A3D" fill-opacity="0.18" filter="url(#tng-core-glow)">
+    <animate attributeName="cx" values="180; 780; 180" dur="18s" repeatCount="indefinite" />
+    <animate attributeName="r" values="140; 180; 140" dur="9s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Corner Brackets & Technical Frame -->
+  <g stroke="#C77B9B" stroke-width="1.2" stroke-opacity="0.4" fill="none">
+    <path d="M 16 34 L 16 16 L 34 16" />
+    <path d="M 944 34 L 944 16 L 926 16" />
+    <path d="M 16 266 L 16 284 L 34 284" />
+    <path d="M 944 266 L 944 284 L 926 284" />
+  </g>
+
+  <!-- Top Telemetry Header -->
+  <g transform="translate(48, 42)">
+    <!-- Pulsing Status Core -->
+    <circle cx="6" cy="6" r="4.5" fill="#C77B9B">
+      <animate attributeName="r" values="3.5; 5; 3.5" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.7; 1; 0.7" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="6" cy="6" r="8" fill="none" stroke="#E5B5C7" stroke-width="0.8">
+      <animate attributeName="r" values="6; 11; 6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.8; 0; 0.8" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="24" y="9.5" fill="#E5B5C7" class="tng-font-mono" font-size="10.5" font-weight="600" letter-spacing="2.8" opacity="0.95">
+      SEC.SYS // SPEC: INFORMATION SECURITY • AI &amp; MACHINE LEARNING
+    </text>
+
+    <!-- Technical hash badge -->
+    <rect x="710" y="-3" width="154" height="20" rx="4" fill="#190B12" stroke="#451126" stroke-width="1"/>
+    <text x="787" y="10.5" fill="#C77B9B" class="tng-font-mono" font-size="9.5" font-weight="500" letter-spacing="1.2" text-anchor="middle">
+      NODE: VIT_VELLORE.IN
+    </text>
+  </g>
+
+  <!-- Animated Technical Circuit Paths across Lower Field -->
+  <g fill="none">
+    <!-- Base dim trace -->
+    <path d="M 48 244 L 220 244 L 270 216 L 490 216 L 530 244 L 700 244 L 730 220 L 912 220"
+          stroke="#451126" stroke-width="1" stroke-opacity="0.45"/>
+
+    <!-- Dynamic animated flowing circuit line -->
+    <path d="M 48 244 L 220 244 L 270 216 L 490 216 L 530 244 L 700 244 L 730 220 L 912 220"
+          stroke="url(#tng-moving-light)" stroke-width="2.2" stroke-linecap="round" filter="url(#tng-glow)"
+          stroke-dasharray="140 380">
+      <animate attributeName="stroke-dashoffset" values="520; 0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Secondary micro-wave -->
+    <path d="M 48 266 Q 160 260 260 266 T 480 266 T 700 264 T 912 266"
+          stroke="#701A3D" stroke-width="0.8" stroke-dasharray="4 6" stroke-opacity="0.5"/>
+    
+    <!-- Circuit Junction Nodes -->
+    <circle cx="270" cy="216" r="2.5" fill="#E5B5C7" opacity="0.85"/>
+    <circle cx="490" cy="216" r="2.5" fill="#E5B5C7" opacity="0.85"/>
+    <circle cx="530" cy="244" r="2.5" fill="#C77B9B" opacity="0.85"/>
+    <circle cx="730" cy="220" r="2.5" fill="#C77B9B" opacity="0.85"/>
+  </g>
+
+  <!-- Left Main Identity Block -->
+  <g transform="translate(48, 86)">
+    <!-- Primary Name Heading -->
+    <text x="0" y="42" fill="url(#tng-text-shimmer)" class="tng-font-sans" font-size="34" font-weight="800" letter-spacing="1.4" filter="drop-shadow(0 2px 8px rgba(112, 26, 61, 0.45))">
+      THIMMAPUR NAGATEJA GOUD
+    </text>
+
+    <!-- Glowing Underline with Moving Gradient Accent -->
+    <line x1="0" y1="58" x2="480" y2="58" stroke="#451126" stroke-width="2"/>
+    <line x1="0" y1="58" x2="480" y2="58" stroke="url(#tng-moving-light)" stroke-width="2.5" filter="url(#tng-glow)"/>
+
+    <!-- Role Sub-heading -->
+    <text x="0" y="86" fill="#E5B5C7" class="tng-font-mono" font-size="13.5" font-weight="500" letter-spacing="1.5">
+      CSE (INFORMATION SECURITY) • AI/ML &amp; THREAT DETECTION RESEARCHER
+    </text>
+
+    <!-- Key Info Pills -->
+    <g transform="translate(0, 104)">
+      <!-- Pill 1: Academic -->
+      <g transform="translate(0, 0)">
+        <rect width="186" height="26" rx="5" fill="#190B12" stroke="#701A3D" stroke-width="1"/>
+        <text x="14" y="17" fill="#F8F0F3" class="tng-font-mono" font-size="10" font-weight="600" letter-spacing="0.8">
+          VIT VELLORE <tspan fill="#C77B9B">|</tspan> CGPA 7.96
+        </text>
+      </g>
+
+      <!-- Pill 2: Internship Experience -->
+      <g transform="translate(196, 0)">
+        <rect width="214" height="26" rx="5" fill="#190B12" stroke="#701A3D" stroke-width="1"/>
+        <text x="14" y="17" fill="#F8F0F3" class="tng-font-mono" font-size="10" font-weight="600" letter-spacing="0.8">
+          EX-AIML INTERN <tspan fill="#C77B9B">@</tspan> EDUFYI
+        </text>
+      </g>
+
+      <!-- Pill 3: Focus -->
+      <g transform="translate(420, 0)">
+        <rect width="190" height="26" rx="5" fill="#190B12" stroke="#701A3D" stroke-width="1"/>
+        <text x="14" y="17" fill="#F8F0F3" class="tng-font-mono" font-size="10" font-weight="600" letter-spacing="0.8">
+          DEFENSIVE CYBER &amp; ML
+        </text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right Restrained Orbital Geometry & Radar Core -->
+  <g transform="translate(800, 150)">
+    <!-- Ambient Halo Core -->
+    <circle cx="0" cy="0" r="85" fill="#701A3D" fill-opacity="0.22" filter="url(#tng-core-glow)"/>
+
+    <!-- Outer Static Dotted Ring -->
+    <circle cx="0" cy="0" r="92" fill="none" stroke="#451126" stroke-width="1" stroke-dasharray="2 6"/>
+
+    <!-- Outer Rotating Coordinate Ring -->
+    <g>
+      <circle cx="0" cy="0" r="78" fill="none" stroke="#701A3D" stroke-width="1.2" stroke-dasharray="14 18 48 18">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="78" cy="0" r="3.5" fill="#C77B9B">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Inner Counter-Rotating Hex / Segment Ring -->
+    <g>
+      <circle cx="0" cy="0" r="54" fill="none" stroke="#C77B9B" stroke-width="1" stroke-opacity="0.8" stroke-dasharray="32 8 16 8">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-54" cy="0" r="2.8" fill="#E5B5C7">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="0" cy="54" r="2.2" fill="#F8F0F3">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Radar Crosshairs -->
+    <line x1="-88" y1="0" x2="88" y2="0" stroke="#451126" stroke-width="0.8" stroke-opacity="0.7"/>
+    <line x1="0" y1="-88" x2="0" y2="88" stroke="#451126" stroke-width="0.8" stroke-opacity="0.7"/>
+
+    <!-- Central Security Core Shield / Emblem Symbol -->
+    <circle cx="0" cy="0" r="22" fill="#190B12" stroke="#C77B9B" stroke-width="1.5" filter="url(#tng-glow)"/>
+    <path d="M -8 -6 L 0 -11 L 8 -6 L 8 4 C 8 9 0 13 0 13 C 0 13 -8 9 -8 4 Z"
+          fill="#451126" stroke="#E5B5C7" stroke-width="1.2" stroke-linejoin="round"/>
+    <circle cx="0" cy="2" r="2" fill="#F8F0F3"/>
+
+    <!-- Orbital Telemetry Text -->
+    <text x="0" y="108" fill="#C77B9B" class="tng-font-mono" font-size="8.5" letter-spacing="1.8" text-anchor="middle" opacity="0.85">
+      SEC_ENCLAVE // 0x451126
+    </text>
+  </g>
+
+  <!-- Border Frame -->
+  <rect x="0.5" y="0.5" width="959" height="299" rx="11.5" fill="none" stroke="#451126" stroke-width="1"/>
+</svg>
